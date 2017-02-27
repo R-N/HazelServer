@@ -1,3 +1,8 @@
+.gitignore
+*.zip
+HazelServer/bin
+HazelServer/obj
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

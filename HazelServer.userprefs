@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="HazelServer\HazelServer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HazelServer\Program.cs">
+    <Files>
+      <File FileName="HazelServer\Program.cs" Line="428" Column="23" />
+      <File FileName="HazelServer\HazelSerializer.cs" Line="457" Column="1" />
+      <File FileName="HazelServer\Room.cs" Line="307" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
